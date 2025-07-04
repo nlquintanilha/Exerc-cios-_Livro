@@ -9,5 +9,9 @@ volume = (4/3) * math.pi * (raio ** 3)
 print (volume)
 
 
+#utiliza a biblioteca math para acessar o valor de  (pi) 
+
+#calcula o volume elevando o raio à terceira potência, multiplicando pelos demais termos da fórmula clássica para volume de esferas.
+
 
 
